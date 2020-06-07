@@ -1,0 +1,12 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "main": "__test__/binary.test.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
